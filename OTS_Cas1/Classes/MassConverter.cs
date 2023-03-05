@@ -13,6 +13,7 @@ namespace OTS_Cas1
              return Math.Round(value / 2.205, 3);
         }
         //Komentar
+        //Komentar1
         public double ConvertArray(string array)
         {
             string[] values = array.Split(',');
