@@ -13,6 +13,7 @@ namespace OTS_Cas1
             return value * 117.55;
         }
 //Komentar za test
+//Komentar1
         public double ConvertArray(string array)
         {
             string[] values = array.Split(',');
