@@ -20,7 +20,6 @@ namespace OTS_Cas1
             minutes = days * 24 * 60;
             return minutes;
         }
-//Komentar123 
         public double ConvertSeconds(double days)
         { 
             minutes *= ConvertMinutes(days);
