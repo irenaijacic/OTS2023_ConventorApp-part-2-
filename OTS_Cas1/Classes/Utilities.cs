@@ -19,6 +19,6 @@ namespace OTS_Cas1.Classes
                 array.RemoveAt(0);
             }
             return numbers;
-        }
+        } //Kom
     }
 }
